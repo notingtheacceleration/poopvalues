@@ -1,46 +1,46 @@
 ideologies = [
 	{
-        "name": "Praxis-based Maoism",
+        "name": "Maoism",
         "stats": {
             "a": 70,
             "b": 80,
             "c": 90,
-            "d": 40,
-			"e": 100,
-			"f": 90
+            "d": 20,
+			"e": 70,
+			"f": 100
         }
     },
     {
         "name": "Bordigism",
         "stats": {
-            "a": 80,
-            "b": 90,
-            "c": 60,
-            "d": 80,
-			"e": 70,
-			"f": 50
-        }
-    },
-	{
-        "name": "Marxism but you like plants.... communisation???",
-        "stats": {
-            "a": 80,
-            "b": 90,
-            "c": 60,
-            "d": 80,
-			"e": 70,
-			"f": 20
-        }
-    },
-	{
-        "name": "an insufficient theory",
-        "stats": {
             "a": 90,
-            "b": 70,
-            "c": 30,
-            "d": 80,
+            "b": 90,
+            "c": 90,
+            "d": 100,
 			"e": 40,
-			"f": 50
+			"f": 30
+        }
+    },
+	{
+        "name": "Communisation",
+        "stats": {
+            "a": 100,
+            "b": 90,
+            "c": 40,
+            "d": 100,
+			"e": 40,
+			"f": 10
+        }
+    },
+	{
+        "name": "an insufficient theory (councilism)",
+        "stats": {
+            "a": 80,
+            "b": 70,
+            "c": 20,
+            "d": 80,
+			"e": 50,
+			"f": 70
         }
     },
 	{
@@ -57,34 +57,34 @@ ideologies = [
 	{
         "name": "Anarcho-Communism",
         "stats": {
-            "a": 90,
+            "a": 100,
             "b": 50,
-            "c": 20,
+            "c": 10,
             "d": 100,
-			"e": 10,
+			"e": 50,
 			"f": 60
         }
     },
 	{
-        "name": "Eco-Anarchism?????",
+        "name": "Marxist humanoidism",
         "stats": {
-            "a": 90,
+           "a": 50,
             "b": 50,
-            "c": 20,
-            "d": 100,
-			"e": 10,
-			"f": 20
+            "c": 50,
+            "d": 50,
+			"e": 50,
+			"f": 50
         }
     },
 	{
-        "name": "Utopian Socialism... WHAT THE FUCK DOES THIS MEAN",
+        "name": "cockshitt",
         "stats": {
-            "a": 30,
-            "b": 20,
-            "c": 40,
-            "d": 20,
-			"e": 50,
-			"f": 40
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+			"e": 0,
+			"f": 0
         }
     },
 	{
