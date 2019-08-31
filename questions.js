@@ -48,7 +48,7 @@ questions = [
 		"question": "A socialist revolution is made inevitable by the conditions of capitalism.",
         "effect": {
             "a": 5,
-            "b": 0,
+            "b": 5,
             "c": 0,
             "d": 0,
 			"e": 0,
@@ -70,7 +70,7 @@ questions = [
 		"question": "Revolutionary violence is acceptable as long as the final outcome is positive.",
         "effect": {
             "a": 5,
-            "b": 0,
+            "b": 5,
             "c": 0,
             "d": 0,
 			"e": 0,
@@ -114,7 +114,7 @@ questions = [
 	{
 		"question": "It is possible to peacefully convince the ruling class to conform to a socialist society.",
         "effect": {
-            "a": 0,
+            "a": -10,
             "b": -10,
             "c": 0,
             "d": 0,
