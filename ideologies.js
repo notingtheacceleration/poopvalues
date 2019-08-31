@@ -1,6 +1,6 @@
 ideologies = [
 	{
-        "name": "Marxism-Leninism",
+        "name": "Praxis-based Maoism",
         "stats": {
             "a": 70,
             "b": 80,
@@ -11,7 +11,7 @@ ideologies = [
         }
     },
     {
-        "name": "Orthodox Marxism",
+        "name": "Bordigism",
         "stats": {
             "a": 80,
             "b": 90,
@@ -22,7 +22,7 @@ ideologies = [
         }
     },
 	{
-        "name": "Eco-Marxism",
+        "name": "Marxism but you like plants.... communisation???",
         "stats": {
             "a": 80,
             "b": 90,
@@ -33,7 +33,7 @@ ideologies = [
         }
     },
 	{
-        "name": "Council Communism",
+        "name": "an insufficient theory",
         "stats": {
             "a": 90,
             "b": 70,
@@ -44,7 +44,7 @@ ideologies = [
         }
     },
 	{
-        "name": "Left Communism",
+        "name": "Vague infantile disorder",
         "stats": {
             "a": 100,
             "b": 60,
@@ -66,7 +66,7 @@ ideologies = [
         }
     },
 	{
-        "name": "Eco-Anarchism",
+        "name": "Eco-Anarchism?????",
         "stats": {
             "a": 90,
             "b": 50,
@@ -77,7 +77,7 @@ ideologies = [
         }
     },
 	{
-        "name": "Utopian Socialism",
+        "name": "Utopian Socialism... WHAT THE FUCK DOES THIS MEAN",
         "stats": {
             "a": 30,
             "b": 20,
